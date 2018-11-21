@@ -7,6 +7,6 @@
 - Please refer to the following for other information: https://github.com/PaloAltoNetworks/azure/blob/master/vmseries-avset/README.md
  
 
-[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2Fykbtest%2Fblob%2Fmaster%2Fvmseries-avset-with-standard-publicIP%2FAzureDeploy.json)
+[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2Fykbtest%2Fvmseries-avset-with-standard-publicIP%2Fblob%2Fmaster%2FAzureDeploy.json)
 
 
